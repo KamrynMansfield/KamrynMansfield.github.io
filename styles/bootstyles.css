@@ -1,0 +1,81 @@
+.kamrynheader{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+}
+.kamrynmenu{
+    color: white;
+    margin: 0px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+.header{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    background-color: rgb(24, 23, 23);
+}
+.mainbody{
+    bottom: 50px;
+    left: 100px;
+    top: 60px;
+    right: 100px;
+    position: fixed;
+    
+}
+.footer{
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    position:fixed;
+    background-color: rgb(24, 23, 23);
+}
+.common{
+   position:absolute;
+
+}
+
+.menu{
+    text-align: end;
+    color: white;
+    margin: 15px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.white{
+    color:white;
+
+}
+.footertext{
+    text-align: center;
+    font-size: 15px;
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+
+}
+p{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategrey
+    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
+h3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: Normal;
+    text-align: center;
+    font-size: 20px;
+}
